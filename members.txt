@@ -1,0 +1,8 @@
+1,Ferdinando,M,05/02/1980
+F
+Java,SF5,Moto
+Oroscopo,Omeopatia
+2,Mirtilla,F,05/01/1985
+MF
+Moto
+Oroscopo
